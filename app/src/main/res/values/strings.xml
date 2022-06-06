@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnConvert</string>
+    <string name="enter_the_value_in_kg">Enter the value in Kg</string>
+    <string name="convert">Convert</string>
+    <string name="kg_to_pound_converter">Kg To Pound Converter</string>
+    <string name="todo">TODO</string>
+</resources>
